@@ -11,3 +11,9 @@ For those of you who do not have Processing installed (which is...90% of you?), 
 Code:
 
 ![](autumn-code.gif)
+
+Game Play:
+
+![](autumn-game.gif)
+
+P.S. All objects falling from the sky were randomly generated using [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise), which is commonly used in game and visual media design. An interesting read here: http://flafla2.github.io/2014/08/09/perlinnoise.html.
