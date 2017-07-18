@@ -1,6 +1,6 @@
 # Autumn Harvest Game  
 
-This small game was written within 1.5 hours as a midterm exam for the Interactive Computing class at NYU (Fall 2015). All images and artwork were provided by the instructor before the exam. 
+This small game was written within 1.5 hours as a midterm exam for the Interactive Computing class at NYU (Fall 2015). All images and artwork were provided by the instructor before the exam (implying I have nothing to do with the Starbucks pumpkin latte cups falling from the sky...) 
 
 In order to run the programs on your local computer, please install [Processing 2 or higher versions](https://processing.org/).
 
@@ -16,4 +16,4 @@ Game Play:
 
 ![](autumn-game.gif)
 
-P.S. All objects falling from the sky were randomly generated using [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise), which is commonly used in game and visual media design. An interesting read here: http://flafla2.github.io/2014/08/09/perlinnoise.html.
+P.S. All objects falling from the sky were randomly generated using [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise), which is commonly used in game and visual media design. An interesting read here: http://flafla2.github.io/2014/08/09/perlinnoise.html. The project was written in simplified Java syntax within the Processing 2 IDE.
