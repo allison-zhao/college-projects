@@ -1,4 +1,4 @@
-#Dance Dance Revolution remake 
+# Dance Dance Revolution remake 
 
 As the final project for my Interactive Computing class at NYU (Fall 2015), 'DDR remake' was one of the most challenging programs my teammates and I have ever written. It incorporates motion detection from webcams (during the game, stars will fall from the top of the screen, and the players will need to put their hands up and wave at the webcam to make them disappear); we built the dance pad from scratch with [Makey Makey](http://makeymakey.com/about/), few sponges, cardboards and wires; my team and I were both about to graduate and we had very little time to code due to our busy schedules...
 
