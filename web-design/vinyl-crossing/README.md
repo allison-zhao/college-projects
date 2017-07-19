@@ -8,4 +8,6 @@ The site is far from finished or being 'viable' (it was only shown as a general 
 
 *Due to copyright and licensing reasons, I am not able to upload the music and artwork in this program as they were downloaded from Google and were only used for educational purposes.*
 
+Programmaing languages used: HTML, CSS, JavaScript, PHP
+
 Check out a quick demo here: https://www.screenmailer.com/v/M8aZzanoNh0sdiE or contact me for more information.
