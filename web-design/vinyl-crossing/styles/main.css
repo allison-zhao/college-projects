@@ -1,0 +1,188 @@
+/* General structure */
+
+html {
+  font-family: 'Muli', sans-serif;
+}
+
+
+body {
+  background-color: #e9ece5;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 100%;
+}
+
+main {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* Hide header text */
+
+header {display: none;}
+
+/*Header Image*/
+
+figure {
+  margin-top: 120px;
+  margin-left: 0;
+  padding-left: 0;
+  margin-right: 0;
+  padding-right: 0;
+}
+
+img.banner {
+  width: 100%;
+  height: auto;
+}
+
+.logo{
+  display: block;
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#showtime{
+  text-align: center;
+  font-size: 16pt;
+
+}
+
+
+/* Navigation */
+
+nav {
+  background: #6ed3cf;
+  width: 100%;
+  min-height: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.elist a:link{
+  color: #000000;
+  font-size: 15pt;
+}
+
+.elist a:visited{
+  color: #000000;
+  font-size: 15pt;
+}
+
+.elist a:hover{
+  color: #ffffff;
+  font-size: 15pt;
+}
+
+li {
+  font-size: 1.3em;
+  line-height: 1.3em;
+  font-weight: normal;
+}
+
+/* Text Styles */
+
+p, ul, ol {
+  color: #000000;
+  font-size: 1em;
+  line-height: 1.3em;
+  text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+  font-size: 2em;
+  font-weight: normal;
+}
+
+h1{
+  text-align: center;
+  color: #000000;
+}
+/* Link states */
+
+a:link, a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:focus, a:hover {
+  color: #000000;}
+
+a:active{
+  color: #000000;
+}
+
+/*Footer Section*/
+
+hr {
+  margin-top: 40px;
+  border: 0;
+  height: 1px;
+}
+
+footer {
+  padding-top: 2px;
+  padding-bottom: 12px;
+  background-color: #06000a;
+}
+
+.credit {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.emo{
+  display:none;
+}
+
+.emoji .emo{
+  display:inline;
+}
+
+.signup{
+  padding-top: 70px;
+  text-align: center;
+}
+
+
+/*media query for alternate style rules*/
+
+@media only screen and (min-width: 640px) {
+
+  li {
+    float: left;
+    margin-right: 2%;
+  }
+
+  figure {
+    margin-top: 60px;
+  }
+
+  article {
+    width: 49%;
+    float: left;
+  }
+
+  .col1 {
+    margin-right: 2%;
+  }
+
+  section, hr {
+    clear: both;
+  }
+
+}
