@@ -8,3 +8,5 @@ Built in Processing 2 IDLE, Fall 2015.
 
 ### Quick Demo
 ![](whack-a-kanye.gif)
+
+In case you don't get the reference: https://www.youtube.com/watch?v=DBQBqk06rvo 
